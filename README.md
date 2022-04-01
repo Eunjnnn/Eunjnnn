@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ## About me
 - Student in JBNU 📝
-- Currently studying on Deep Learning and Machine Learning ✨
-- Specially interested in Computer Vision 👀
+- Keep working on Front-end ✨
+- Currently studying on Deep Learning and Machine Learning and Specially interested in Computer Vision 👀
 
 ## Languages and Tools
 ![Eunjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunjnnn&hide=stars,issues&show_icons=true&theme=dracula)
