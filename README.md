@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 ## About me
 - Student in JBNU 📝
-- Keep working on Front-end ✨
 - Keep trying to grow up and solve the problems 👀
 
 ## Languages and Tools
