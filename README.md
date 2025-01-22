@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-- Student in JBNU 📝
+- Recently graduated from the Master degree at UNIST Graduate School of Artificial Intelligence.
+- Interested in Computer Vision especially in inverse problem.
 - Keep trying to grow up and solve the problems 👀
 
 ## Languages and Tools
